@@ -4,7 +4,6 @@ Ruby Intro
 This 3-part homework gives some basic practice in Ruby as well as
 getting you accustomed to making testing a regular part of your workflow.
 
-**NOTE: Do not clone this repo to your workspace. Fork it first, then clone your fork.**
 
 Learning Goals
 --------------
@@ -26,8 +25,7 @@ files are stored in `lib/` and the test files are stored in `spec/`.
 framework, known as `Test::Unit`, the test files would be under
 `test/`.)
 
-We've placed "starter code" in `lib/ruby_intro.rb`; when you're all done, you
-can submit this single file to the autograder.
+We've placed "starter code" in `lib/ruby_intro.rb`.
 
 However, you can test each of the 3 parts separately.  The files
 `spec/part[123]_spec.rb` contain RSpec tests for each of the three
